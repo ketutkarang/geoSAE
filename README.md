@@ -11,5 +11,3 @@ File ini memastikan bahwa package yang dibangun dan package lain tidak saling me
 - Folder R. Berisi dokumentasi script R untuk menyusun package, dapat berupa function, ataupun dataset. 
 - Folder man. File ini di generate secara otomatis dari komentar berformat khusus pada script R. File ini berisi dokumentasi objek dalam package dalam format.Rd.
 -Folder data. Merupakan file yang berisikan data yang tersedia pada package. Data yang tersedia dalam package ini merupakan data yang berhubungan dengan metode yang digunakan.
-
-3) Folder skrispi. Folder ini berisi buku skripsi
