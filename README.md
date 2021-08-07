@@ -10,4 +10,4 @@ Repositori ini digunakan sebagai dokumentasi atau arsip untuk tugas akhir (skrip
 File ini memastikan bahwa package yang dibangun dan package lain tidak saling mengganggu. Interaksi dengan package lain digambarkan pada item ‘import’, sedangkan interaksi dengan pengguna digambarkan pada item ‘export' yang berisi beberapa function yang dapat diakses oleh pengguna. 
 - Folder R. Berisi dokumentasi script R untuk menyusun package, dapat berupa function, ataupun dataset. 
 - Folder man. File ini di generate secara otomatis dari komentar berformat khusus pada script R. File ini berisi dokumentasi objek dalam package dalam format.Rd.
--Folder data. Merupakan file yang berisikan data yang tersedia pada package. Data yang tersedia dalam package ini merupakan data yang berhubungan dengan metode yang digunakan.
+- Folder data. Merupakan file yang berisikan data yang tersedia pada package. Data yang tersedia dalam package ini merupakan data yang berhubungan dengan metode yang digunakan.
